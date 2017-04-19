@@ -1,9 +1,14 @@
-# api documentation for  [error (v7.0.2)](https://github.com/Raynos/error)  [![npm package](https://img.shields.io/npm/v/npmdoc-error.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-error) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-error.svg)](https://travis-ci.org/npmdoc/node-npmdoc-error)
+# npmdoc-error
+
+#### api documentation for  [error (v7.0.2)](https://github.com/Raynos/error)  [![npm package](https://img.shields.io/npm/v/npmdoc-error.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-error) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-error.svg)](https://travis-ci.org/npmdoc/node-npmdoc-error)
+
 #### Custom errors
 
-[![NPM](https://nodei.co/npm/error.png?downloads=true)](https://www.npmjs.com/package/error)
+[![NPM](https://nodei.co/npm/error.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/error)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-error/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-error_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-error/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-error/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-error/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-error/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-error/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-error/build/screenCapture.npmPackageListing.svg)
 
@@ -17,12 +22,10 @@
 
 {
     "author": {
-        "name": "Raynos",
-        "email": "raynos2@gmail.com"
+        "name": "Raynos"
     },
     "bugs": {
-        "url": "https://github.com/Raynos/error/issues",
-        "email": "raynos2@gmail.com"
+        "url": "https://github.com/Raynos/error/issues"
     },
     "contributors": [
         {
@@ -56,17 +59,14 @@
     "main": "index",
     "maintainers": [
         {
-            "name": "raynos",
-            "email": "raynos2@gmail.com"
+            "name": "raynos"
         },
         {
-            "name": "jcorbin",
-            "email": "jcorbin@wunjo.org"
+            "name": "jcorbin"
         }
     ],
     "name": "error",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/Raynos/error.git"
@@ -99,16 +99,6 @@
     "version": "7.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module error](#apidoc.module.error)
-
-
-
-# <a name="apidoc.module.error"></a>[module error](#apidoc.module.error)
 
 
 
